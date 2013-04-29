@@ -1,0 +1,111 @@
+body{
+	font: 12px Helvetica, Arial, sans-serif; 
+	color:#000000; 
+	height: 100%; 
+	clear: both;
+	display: table; 
+	border-top: none; 
+	border-bottom: none; 
+	margin:auto; 
+	text-align:left;
+	background-image: url("../images/background.png");
+}
+
+a{
+	cursor: default;
+	color:#000000;
+	font: Helvetica, Arial, sans-serif; 
+	text-decoration: none;
+}
+div.main{
+	background-color: #FFF;
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	border: 1px solid #CCC;
+	
+}
+
+div.topo{
+	width: 1000px;
+	height: 200px;
+	border-bottom: 1px solid #CCC;
+}
+
+div.logo{
+	display: inline-block;
+	width: 400px;
+	height: 190px;
+	margin-top: 5px;
+	margin-left: 20px;
+	float: left;
+	background-image: url("../images/logo1.png");
+}
+
+div.info{
+	display: inline-block;
+	width: 400px;
+	height: 190px;
+
+	float: right;
+	border: 1px solid #EFEFEF;
+}
+
+div.conteudo{
+	float: left;
+	width: 750px;
+	height: 500px;
+	margin-top: 10px;
+	margin-left: 25px;
+	border: 1px solid #696969;
+}
+
+div.menu {
+	float: right;
+	width: 180px;
+	height: 250px;
+	font: 16px Segoe UI;
+	margin-top: 10px;
+	margin-right: 25px;
+	opacity:.7;
+	background-color: #000;
+	color: #FFF;
+	line-height: 40px;
+}
+
+ul.listMenu{
+	list-style-position: inside;
+	list-style-type: none;
+	padding: 0px;
+}
+li.itemMenu {
+	
+}
+li.itemMenu:hover{
+	background: #0a0a0a;
+	border-left: 3px solid #4682B4;
+}
+li.selected{
+	border-left: 3px solid #4682B4;
+}
+
+div.rodape{
+	width: 1000px;
+	height: 200px;
+	margin-top: 20px;
+	padding-top: 15px;
+	clear: both;
+	background-image: url("../images/footer-shadow.png");
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+
+#slider {
+	width:400px;
+	height:190px;
+	/*IE bugfix*/
+	padding:0;
+	margin:0;
+}
+
+#slider li { list-style:none; }
