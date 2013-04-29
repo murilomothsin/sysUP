@@ -20,11 +20,21 @@
 			<div name="logo" class="logo"></div>
 			<div name="info" id="info" class="info">
 				<ul id="slider">
-				<li>Teste info 1</li>
-				<li>Teste info 2</li>
-				<li>Teste info 3</li>
-				<li>Teste info 4</li>
-				<li>Teste info 5</li>
+				<li><h3>Teste info 1</h3>
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</li>
+				<li><h3>Teste info 2</h3>
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</li>
+				<li><h3>Teste info 3</h3>
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</li>
+				<li><h3>Teste info 4</h3>
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</li>
+				<li><h3>Teste info 5</h3>
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</li>
 			</ul>
 			</div>
 		</div>
