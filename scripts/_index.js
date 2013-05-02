@@ -1,6 +1,16 @@
 $(document).ready(function() {
 
-	$('#slider').rhinoslider();
+	$(function() {
+	  $('#slides').slidesjs({
+	    width: 300,
+	    height: 100,
+	    play: {
+	      auto: true,
+	      interval: 4000,
+	      pauseOnHover: true,
+	    }
+	  });
+	});
 
 	$('#content').load('home.php');
 	$('#loadHome').addClass("selected");

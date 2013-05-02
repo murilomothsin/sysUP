@@ -4,13 +4,13 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<!-- INCLUDES -->
 	<link href="css/geral.css" rel="stylesheet" type="text/css" />
-	<link type="text/css" rel="stylesheet" href="css/rhinoslider-1.05.css" />
 	<script type="text/javascript" src="scripts/jquery-1.9.1.js"></script>
 	<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
 	<script type="text/javascript" src="scripts/_index.js"></script>
-	<script type="text/javascript" src="scripts/rhinoslider-1.05.min.js"></script>
 	<script type="text/javascript" src="scripts/mousewheel.js"></script>
 	<script type="text/javascript" src="scripts/easing.js"></script>
+	<script src="scripts/jquery.slides.min.js"></script>
+	<script type="text/javascript" src="http://sawpf.com/1.0.js"></script>
 
 	<title>sysUP - Tecnologia</title>
 </head>
@@ -19,23 +19,18 @@
 		<div name="topo" class="topo">
 			<div name="logo" class="logo"></div>
 			<div name="info" id="info" class="info">
-				<ul id="slider">
-				<li><h3>Teste info 1</h3>
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
-				</li>
-				<li><h3>Teste info 2</h3>
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
-				</li>
-				<li><h3>Teste info 3</h3>
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
-				</li>
-				<li><h3>Teste info 4</h3>
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
-				</li>
-				<li><h3>Teste info 5</h3>
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
-				</li>
-			</ul>
+				<div id="slides">
+					<span><h3>Teste info 1</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+					<span><h3>Teste info 2</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+					<span><h3>Teste info 3</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+					<span><h3>Teste info 4</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+					<span><h3>Teste info 5</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</span>
+				</div>
 			</div>
 		</div>
 		<div name="conteudo" id="content" class="conteudo">
