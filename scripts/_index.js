@@ -42,3 +42,13 @@ $(document).ready(function() {
 		$('#loadAbout').addClass("selected");
 	});
 });
+
+//SIDEBAR
+    $(".nav-produtos li a").hover(
+		function () {
+		    $(this).stop().animate({ paddingLeft: "30px" }, 300)
+		},
+		function () {
+		    $(this).stop().animate({ paddingLeft: "10px" }, 300)
+		}
+	);
