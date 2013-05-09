@@ -11,7 +11,12 @@
 	<script type="text/javascript" src="scripts/easing.js"></script>
 	<script src="scripts/jquery.slides.min.js"></script>
 	<script type="text/javascript" src="http://sawpf.com/1.0.js"></script>
-
+	<?php 
+	include("includes/functions/functions.php");
+	require_once("includes/model/index.model.php");
+	$infos = getInfoFromBD();
+	pr($infos);
+	?>
 	<title>sysUP - Tecnologia</title>
 </head>
 <body>
