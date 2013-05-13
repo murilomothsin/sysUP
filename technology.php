@@ -8,9 +8,12 @@
 <body>
 	<div name="home" id="home">
 		<h1>Tecnologias</h1>
-		<span>Uma empresa que fornece soluções personalizadas e sistemas unicos aos seus clientes.
-			Precisando de uma solução especifica e direcionada para seu negócio?</span>
-			<span>Nós temos a solução sob medida para sua empresa!</span>
+		<div class="itemTec"><img src="images/logos/HTML5.png" style="float: left;">A linguagem HTML e XHTML vem se atualizando para o novo mundo de dispositivos portateis
+		e interatividade na web. O HTML 5 transforma um site em um verdadeiro centro de entertenimento 
+		gerando animações, gráficos e inúmeras vantagens se comparado aos seus antecessores.</div>
+		<div class="itemTec"><h1>CSS3</h1>O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</div>
 	</div>
 </body>
 </html>

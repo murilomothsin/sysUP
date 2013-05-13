@@ -18,12 +18,11 @@ a{
 	text-decoration: none;
 }
 div.main{
-	background-color: #FFF;
+	background-color: #f8f8f8;
 	width: 1000px;
 	height: 800px;
 	margin: 0 auto;
 	border: 1px solid #CCC;
-	
 }
 
 div.topo{
@@ -46,18 +45,32 @@ div.info{
 	display: inline-block;
 	width: 400px;
 	height: 190px;
-
 	float: right;
 	border: 1px solid #EFEFEF;
 }
 
 div.conteudo{
 	float: left;
-	width: 750px;
-	height: 500px;
+	overflow: auto;
+	width: 730px;
+	height: 480px;
 	margin-top: 10px;
 	margin-left: 25px;
-	border: 1px solid #696969;
+	padding: 10px;
+	border: 1px solid #f8f8f8;
+}
+
+div.itemTec{
+	display: inline-block;
+	margin: 5px;
+	border: 1px solid #CCC;
+	text-align: justify;
+}
+
+h1.tituloPagina{
+	font-size: 24px;
+	font-weight: bold;
+	color: #2d2d2d;
 }
 
 div.menu {
@@ -71,6 +84,12 @@ div.menu {
 	background-color: #000;
 	color: #FFF;
 	line-height: 40px;
+
+	/* background-color: #333;*/
+	-webkit-box-shadow: 0 0 10px #000;
+	   -moz-box-shadow: 0 0 10px #000;
+		 -o-box-shadow: 0 0 10px #000;
+			box-shadow: 0 0 15px #000;
 }
 
 ul.listMenu{
@@ -97,7 +116,7 @@ div.rodape{
 	clear: both;
 	background-image: url("../images/footer-shadow.png");
 	background-repeat: no-repeat;
-	background-position: center;	
+	background-position: center;
 }
 
 /*  CSS do carrossel das infos  */
@@ -203,5 +222,4 @@ a:hover.slidesjs-stop {
 
 .navbar {
   overflow: hidden
-}
-}
+}	

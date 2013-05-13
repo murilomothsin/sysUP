@@ -15,7 +15,7 @@
 	include("includes/functions/functions.php");
 	require_once("includes/model/index.model.php");
 	$infos = getInfoFromBD();
-	pr($infos);
+	//pr($infos);
 	?>
 	<title>sysUP - Tecnologia</title>
 </head>
@@ -62,6 +62,7 @@
 			(51) 3541-1596 <br />
 			contato@sysup.com.br </center>
 		</div>
+		<div style="clear: both;"></div>
 	</div>
 </body>
 </html>
