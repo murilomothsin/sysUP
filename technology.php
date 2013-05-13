@@ -8,12 +8,30 @@
 <body>
 	<div name="home" id="home">
 		<h1>Tecnologias</h1>
-		<div class="itemTec"><img src="images/logos/HTML5.png" style="float: left;">A linguagem HTML e XHTML vem se atualizando para o novo mundo de dispositivos portateis
+		<div class="itemTec"><img src="images/logos/HTML5.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">A linguagem HTML e XHTML vem se atualizando para o novo mundo de dispositivos portateis
 		e interatividade na web. O HTML 5 transforma um site em um verdadeiro centro de entertenimento 
-		gerando animações, gráficos e inúmeras vantagens se comparado aos seus antecessores.</div>
-		<div class="itemTec"><h1>CSS3</h1>O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		gerando animações, gráficos e inúmeras vantagens se comparado aos seus antecessores.</p></div>
+		<div class="itemTec"><img src="images/logos/CSS3.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
 		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
-		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</div>
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/JQuery.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/PHP.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/RubyOnRails.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/JAVA.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/MySQL.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
+		<div class="itemTec"><img src="images/logos/MSSQLServer.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
+		Capaz de tornar um site mais leve e mais fluido graças as novas técnologias que aboliram muitas imagens. Com CSS3 seu site terá efeitos profissionais 
+		utilizando poucos recursos de processamento e memória transformando a experiencia de navegar pelo site muito mais agradavel.</p></div>
 	</div>
 </body>
 </html>
