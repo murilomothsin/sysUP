@@ -14,7 +14,7 @@
 		<div class="itemTec"><img src="images/logos/CSS3.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">O Cascading Style Sheets, ou simplesmente CSS, traz novos recursos de cantos arredondados e animações de transição de imagens que impressiona.
 		Capaz de tornar um site mais leve e mais fluido graças as novas tecnologias que aboliram muitas imagens. Com o CSS3 seu site terá efeitos profissionais 
 		utilizando poucos recursos de processamento e memória transformando a experiência de navegar pelo site muito mais agradavel.</p></div>
-		<div class="itemTec"><img src="images/logos/JQuery.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">Uma biblioteca JavaScript que facilita o desenvolvimento de interações com páginas web, reduzindo o tempo de desenvolvimento de aplicações web
+		<div class="itemTec"><img src="images/logos/JQuery_menor.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">Uma biblioteca JavaScript que facilita o desenvolvimento de interações com páginas web, reduzindo o tempo de desenvolvimento de aplicações web
 		com interação com o usuário. Jquery é uma solução poderosa que já domina os grandes sites e traz grandes funcionalidades como animações dentro do site
 		e resolve muitas questões de incompatibilidade entre browsers.</p></div>
 		<div class="itemTec"><img src="images/logos/PHP.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">Uma linguagem de programação web, o PHP tem influência de C/C++ e Perl, é open source e pode ser usado tanto o paradigma estruturado quanto a orientação à objetos
@@ -27,7 +27,7 @@
 		<div class="itemTec"><img src="images/logos/MySQL.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">o MySQL assim como o SQL Server é um gerenciador de banco de dados, que domina o mercado, grandes empresas da atualidade como Google, NASA e bancos utilizam o MySQL.
 		O grande sucesso desse gerenciador se deve a muitos motivos entre eles estão a fácil integração com as linguagens de programação atuais, facilidade de uso, portabilidade
 		e pouca exigência de hardware do servidor.</p></div>
-		<div class="itemTec"><img src="images/logos/MSSQLServer.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">É um Sistema Gerenciador de Banco de Dados da Microsoft utilizado tanto em pequenas aplicações com alguns usuários até programas robustos com milhares de usuários 
+		<div class="itemTec"><img src="images/logos/MSSQLServer_semlogo.png" style="float: left; height: 100px; margin-right: 5px;"><p style="vertical-align: middle;">É um Sistema Gerenciador de Banco de Dados da Microsoft utilizado tanto em pequenas aplicações com alguns usuários até programas robustos com milhares de usuários 
 		conectados em todo o mundo. O SQL Server é uma poderosa ferramenta podendo gerar nativamente relatórios administrativos que auxiliam no BI da empresa, além
 		de se poder ter um rápido desenvolvimento de aplicações.</p></div>
 	</div>
